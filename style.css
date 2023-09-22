@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: rgb(255, 234, 0);
+}
+h1 {
+  font-size: 60px;
+  font-display: calc(23, 45, 23);
+  color: blue;
+  background-color: chartreuse;
+}
+p {
+  font-size: 20px;
+  color: red;
+  background-color: rgb(255, 140, 0);
+}
